@@ -1,7 +1,6 @@
 - Hi, I’m @ademclk
 - I’m interested in Data
 - I’m currently learning Python
-- I’m looking to collaborate on Volvo Group.
 - How to reach me ademonurcelik@gmail.com
 
 <!---
