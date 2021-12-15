@@ -1,6 +1,6 @@
 - Hi, I’m @ademclk
 - I’m interested in Data
-- I’m currently learning Python
+- I’m currently learning Quantum Computing
 - How to reach me ademonurcelik@gmail.com
 
 <!---
