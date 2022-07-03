@@ -1,7 +1,6 @@
 - Hi, I’m @ademclk
-- I’m interested in Quantum computing
 
-- How to reach me ademonurcelik@gmail.com
+- How to reach me ademonurcelik@icloud.com
 
 
 ![counter](https://en3yvkqajikn7br.m.pipedream.net)
