@@ -3,8 +3,6 @@
 
 ![counter](https://en3yvkqajikn7br.m.pipedream.net)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ademclk" alt="ademclk" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ademonurclk" target="blank"><img src="https://img.shields.io/twitter/follow/ademonurclk?logo=twitter&style=for-the-badge" alt="ademonurclk" /></a> </p>
 
 - 🔭 I’m currently working on **responsive web design.**
