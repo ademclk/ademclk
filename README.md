@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ademclk</h1>
 <h3 align="center">A developer from Turkey</h3>
 
-<a align="center" href ="![counter](https://en3yvkqajikn7br.m.pipedream.net) "></a>
+<a align="center" href ="![counter](https://en3yvkqajikn7br.m.pipedream.net) ">![counter](https://en3yvkqajikn7br.m.pipedream.net)</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ademclk" alt="ademclk" /></a> </p>
 
