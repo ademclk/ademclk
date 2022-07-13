@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adem</h1>
-<h3 align="center">A developer from Turkey</h3>
+<h3 align="center">A developer from Turkiye</h3>
 
 ![counter](https://en3yvkqajikn7br.m.pipedream.net)
 
