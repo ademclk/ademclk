@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ademonurclk" target="blank"><img src="https://img.shields.io/twitter/follow/ademonurclk?logo=twitter&style=for-the-badge" alt="ademonurclk" /></a> </p>
 
-- 🔭 I’m currently working on **responsive web design.**
+- 🔭 I’m currently working on **responsive web design & react.**
 
 - 📫 How to reach me **ademonurcelik@icloud.com**
 
