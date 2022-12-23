@@ -3,7 +3,7 @@
 
 <p align="center"><img align= "center" src="https://en3yvkqajikn7br.m.pipedream.net" /></p>
 
-- 🔭 I’m currently working on **responsive web design & react.**
+- 🔭 I’m currently working on **.NET, backend development.**
 
 - 📫 How to reach me **ademonurcelik@icloud.com**
 
