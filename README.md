@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adem</h1>
-<h3 align="center">A developer from Turkiye</h3>
+<h3 align="center">A developer from Türkiye</h3>
 
 <p align="center"><img align= "center" src="https://en3yvkqajikn7br.m.pipedream.net" /></p>
 
-- 🔭 I’m currently working on **Swift, iOS development.**
+- 🔭 I’m currently working on **SwiftUI, Angular, .NET and AWS.**
 
 - 📫 How to reach me **ademonurcelik@icloud.com**
 
