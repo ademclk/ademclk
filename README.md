@@ -3,7 +3,7 @@
 
 <p align="center"><img align= "center" src="https://en3yvkqajikn7br.m.pipedream.net" /></p>
 
-- 🔭 I’m currently working on **.NET, React and Azure.**
+- 🔭 I’m currently working on **Machine learning, AI and LLMs.**
 
 - 📫 How to reach me **ademonurcelik@icloud.com**
 
